@@ -1,0 +1,10 @@
+C:\Users\shovon\Desktop\C sharp\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\shovon\Desktop\C sharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojResolveAssemblyReference.cache
+C:\Users\shovon\Desktop\C sharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.GameScreen.resources
+C:\Users\shovon\Desktop\C sharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\shovon\Desktop\C sharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.Cache
+C:\Users\shovon\Desktop\C sharp\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\shovon\Desktop\C sharp\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\shovon\Desktop\C sharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\shovon\Desktop\C sharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\shovon\Desktop\C sharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.StartScreen.resources
